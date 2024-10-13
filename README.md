@@ -21,7 +21,7 @@ IsActiveMember: Whether the customer is an active member (1 = yes, 0 = no)
 EstimatedSalary: The estimated salary of the customer
 Exited: Whether the customer has churned (1 = yes, 0 = no)
 
-## 3. EDA
+## 3. EDA process
 **Data Cleaning**: 
   - Handling missing values 
   - Removing duplicates
