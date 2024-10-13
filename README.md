@@ -25,10 +25,12 @@ Exited: Whether the customer has churned (1 = yes, 0 = no)
 **Data Cleaning**: 
   - Handling missing values 
   - Removing duplicates
+    
 **Data Preprocessing**: 
   - Categorical feature encoding 
   - Numerical feature scaling 
   - Checking feature correlation
+    
 **Model Selection and Comparison**: 
   - Building a baseline model
   - Improving baseline model by handling imbalanced target data
